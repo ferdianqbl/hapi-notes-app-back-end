@@ -7,3 +7,5 @@
   - notes.js = Loads data records stored in the form of an array of objects.
   - routes.js = Load the server routing configuration code such as specifying the path, method, and handler used.
   - server.js = Loading code to create, configure and run an HTTP server using Hapi
+
+##### chrome://flags/#block-insecure-private-network-requests
