@@ -1,4 +1,4 @@
-# 🤩 //Notes App using HAPI NodeJs Framework 🤩
+# 🤩 Notes App using HAPI NodeJs Framework 🤩
 
 ### Project Structure
 
