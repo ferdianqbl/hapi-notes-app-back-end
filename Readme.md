@@ -13,7 +13,9 @@
 ---
 
 - download all files
-- re-install nodemon <br>` npm i nodemon --save-dev`
+- re-install nodemon <br>`npm i nodemon --save-dev`
+- re-install hapi framework <br>`npm i @hapi/hapi`
+- re-install nanoid <br>`npm i nanoid`
 - run server <br> `npm start`
 - To use the program, [visit this link](http://notesapp-v1.dicodingacademy.com/) and set Web Server API with your local server
 - Voila, you can try the program 😍
